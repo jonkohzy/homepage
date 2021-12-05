@@ -1,10 +1,3 @@
-# Startpage
+# custom new tab page :D
 
-Custom browser startpage.
-
-Font: Fira Code
-
-Colorscheme: Gruvbox Dark
-
-![startpage](startpage.gif)
 <p style="text-align: center;">cat</p>
